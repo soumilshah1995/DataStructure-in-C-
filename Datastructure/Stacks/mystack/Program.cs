@@ -13,7 +13,7 @@ namespace mystack
             stack.Add(3);
 
             System.Console.WriteLine(String.Format("Stack size {0}", stack.Size()));
-
+            System.Console.WriteLine(String.Format("IS Empty Stack {0}", stack.isEmpty()));
 
         }
     }
