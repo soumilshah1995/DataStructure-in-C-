@@ -1,0 +1,11 @@
+/Users/soumilshah/Desktop/DataStructure-in-C-/Datastructure/Stacks/mystack/bin/Debug/netcoreapp3.0/mystack
+/Users/soumilshah/Desktop/DataStructure-in-C-/Datastructure/Stacks/mystack/bin/Debug/netcoreapp3.0/mystack.deps.json
+/Users/soumilshah/Desktop/DataStructure-in-C-/Datastructure/Stacks/mystack/bin/Debug/netcoreapp3.0/mystack.runtimeconfig.json
+/Users/soumilshah/Desktop/DataStructure-in-C-/Datastructure/Stacks/mystack/bin/Debug/netcoreapp3.0/mystack.runtimeconfig.dev.json
+/Users/soumilshah/Desktop/DataStructure-in-C-/Datastructure/Stacks/mystack/bin/Debug/netcoreapp3.0/mystack.dll
+/Users/soumilshah/Desktop/DataStructure-in-C-/Datastructure/Stacks/mystack/bin/Debug/netcoreapp3.0/mystack.pdb
+/Users/soumilshah/Desktop/DataStructure-in-C-/Datastructure/Stacks/mystack/obj/Debug/netcoreapp3.0/mystack.csprojAssemblyReference.cache
+/Users/soumilshah/Desktop/DataStructure-in-C-/Datastructure/Stacks/mystack/obj/Debug/netcoreapp3.0/mystack.AssemblyInfoInputs.cache
+/Users/soumilshah/Desktop/DataStructure-in-C-/Datastructure/Stacks/mystack/obj/Debug/netcoreapp3.0/mystack.AssemblyInfo.cs
+/Users/soumilshah/Desktop/DataStructure-in-C-/Datastructure/Stacks/mystack/obj/Debug/netcoreapp3.0/mystack.dll
+/Users/soumilshah/Desktop/DataStructure-in-C-/Datastructure/Stacks/mystack/obj/Debug/netcoreapp3.0/mystack.pdb
