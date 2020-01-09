@@ -1,2 +1,3 @@
-# DataStructure-in-C-
-Data Structure in c#
+# Data Structure in c#
+
+* Stack
